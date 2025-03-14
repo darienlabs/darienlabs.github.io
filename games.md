@@ -1,6 +1,6 @@
 layout: page
 title: "tic-tac-toe"
-permalink: /tictactoe
+permalink: /tic-tac-toe
 <!DOCTYPE HTML>
 <html>
   <head>
