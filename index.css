@@ -24,3 +24,6 @@
   font-weight: 550;
   font-style: normal;
 }
+#code {
+  border-radius: 50px 100px;
+}
