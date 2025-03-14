@@ -1,5 +1,26 @@
 #header {
-  font-size: 1000px;
-  color: limegreen;
+  font-size: 100px;
+  background-color: paleturquoise;
+  color: darkseagreen;
   text-align: center;
+  font-family: sans-serif; 
+}
+#intro {
+  font-size: 55px;
+  font-family: 
+}
+#age {
+  font-size: 30px;
+  text-align: center;
+}
+#code {
+  font-family: sans-serif
+}
+
+
+.DS {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 550;
+  font-style: normal;
 }
