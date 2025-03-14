@@ -1,3 +1,6 @@
+layout: page
+title: "tic-tac-toe"
+permalink: /tictactoe
 <!DOCTYPE HTML>
 <html>
   <head>
